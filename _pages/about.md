@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, my name is Divya"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
