@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Divya Nori"
 title_separator          : "-"
 name                     : &name "Divya Nori"
-description              : &description "deep learning and data science for modern medicine"
+description              : &description "comp sci student & ai-based drug discovery researcher"
 url                      : https://divnori.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "divnori/divnori.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Divya Nori"
   avatar           : "pic - divya.JPG"
-  bio              : "deep learning and data science for modern medicine"
+  bio              : "ai-based drug discovery researcher & comp sci student"
   location         : "Cambridge, MA & Atlanta, GA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=w8VEYa8AAAAJ&hl=en"
