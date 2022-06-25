@@ -17,9 +17,9 @@ Currently
 
 At the Coley Group and Broad Institute, I apply deep learning approaches for drug discovery with a focus on:
 
-* Building graph neural networks for molecular generation and optimization
-* Integrating reinforcement learning frameworks to finetune generative models
-* Exploring novel neural network embeddings to represent complex biochemical data
+* Generative modeling for de novo drug design
+* Deep learning for receptor-ligand binding prediction
+* Kernel methods for cheminformatics applications
 
 As an undergraduate student, I am involved with the biotechnology, computer science, and statistics ecosystems at MIT. Specifically, I:
 
