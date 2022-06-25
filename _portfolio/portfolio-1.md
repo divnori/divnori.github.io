@@ -1,6 +1,6 @@
 ---
 title: "iSense - AI-Based Model and App to Predict Depressive and Destructive Sentiment"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Mobile application powered by an Artificial Intelligence model to securely identify linguistic biomarkers of mood disorders in a teen’s outgoing SMS messages<br/><img src='/images/isense.png'>"
 collection: portfolio
 ---
 
