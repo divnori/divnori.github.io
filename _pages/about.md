@@ -27,16 +27,6 @@ As an undergraduate student, I am involved with the biotechnology, computer scie
 * Am a [NEET Living Machines Scholar](https://neet.mit.edu/threads/lm) where I work on collaborative synthetic biology projects as part of a 30 student cohort
 * Design and deliver an interdiscplinary biotech education to MIT undergraduates as an associate of [MIT Biotech Group](https://biotech.mit.edu)
 
-Previously
-======
-
-Before my current positions, I gained experience in computational biology and artificial intelligence research as I:
-
-* Developed a neural network model for identification of injection-site reactions at Eli Lilly
-* Designed a novel therapeutic enzyme inhibitor *in silico* as part of Purdue University's Summer Science Program
-* Created an AI-based app for gun violence detection and delivered a [TED talk](https://www.ted.com/talks/divya_nori_beyond_a_moment_of_silence_how_stem_can_prevent_gun_violence) on this work
-* Built a smart e-cigarette device to minimize lung damage and presented this work at the International Science and Engineering Fair
-
 Skills
 ======
 
