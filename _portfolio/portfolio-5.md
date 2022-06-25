@@ -22,4 +22,4 @@ _Related Awards: Georgia Student Technology Competition 1st Place_
 
 [Code on GitHub](https://github.com/divnori/win2win)
 
-[![Win2Win Demo](/images/08BEB9A6-E63C-41EA-A453-DF2F06107FA3.jpeg)](https://www.youtube.com/watch?v=H---dwSN8Zk "Win2Win Demo")
+[![Win2Win Demo](/images/406EDDC4-BEB5-4C33-9EC9-7B09A5D07571.jpeg)](https://www.youtube.com/watch?v=H---dwSN8Zk "Win2Win Demo")
