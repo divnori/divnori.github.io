@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Development and implementation of enzymatic and volatile compound-based approaches for instantaneous detection of pathogenic Staphylococcus aureus"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2021-02-20-staph-diagnosis
+excerpt: 'Staphylococcus aureus (S. aureus) has a mortality rate of up to 30% in developing countries. In contrast, the mortality rate of S. aureus in the U.S. is less than 5%. One reason for the six-fold increase in fatality in underdeveloped communities is lack of access to a rapid, accurate, and user-friendly diagnostic method to enable timely detection of these infections. The purpose of this experiment was to determine if enzymatic and volatile compound-based approaches would perform more quickly in comparison to existing S. aureus diagnostic methods and to evaluate these novel methods on accuracy. Further, we sought to implement them in a reusable 3D-printed instantaneous detection device.'
+date: 2021-02-20
+venue: 'Journal of Emerging Investigators'
+paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://emerginginvestigators.org/articles/development-and-implementation-of-enzymatic-and-volatile-compound-based-approaches-for-instantaneous-detection-of-pathogenic-i-staphylococcus-aureus-i/pdf)'
+citation: 'Nori, Divya. (2021). &quot;Development and implementation of enzymatic and volatile compound-based approaches for instantaneous detection of pathogenic Staphylococcus aureus.&quot; <i>Journal of Emerging Investigators</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Staphylococcus aureus (S. aureus) has a mortality rate of up to 30% in developing countries. In contrast, the mortality rate of S. aureus in the U.S. is less than 5%. One reason for the six-fold increase in fatality in underdeveloped communities is lack of access to a rapid, accurate, and user-friendly diagnostic method to enable timely detection of these infections. The purpose of this experiment was to determine if enzymatic and volatile compound-based approaches would perform more quickly in comparison to existing S. aureus diagnostic methods and to evaluate these novel methods on accuracy. Further, we sought to implement them in a reusable 3D-printed instantaneous detection device. A combination of droplet transmission tests and direct contact tests were developed and evaluated to create a comprehensive method by which individuals can diagnose their condition as pathogenic S. aureus, incorrect use of device, or another infection. We hypothesized that the approaches developed in this study would perform more quickly than existing approaches. Ultimately, our device provided results in less than 30 seconds, which is much quicker than existing methods that take anywhere from 10 minutes to 48 hours based on approach. Statistical analysis of accuracy provides preliminary confirmation that our device based on enzymatic and volatile compound-based approaches can be an accurate and time-efficient tool to detect pathogenic S. aureus.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://academicpages.github.io/files/paper3.pdf](https://emerginginvestigators.org/articles/development-and-implementation-of-enzymatic-and-volatile-compound-based-approaches-for-instantaneous-detection-of-pathogenic-i-staphylococcus-aureus-i/pdf)
