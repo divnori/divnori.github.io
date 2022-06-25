@@ -8,4 +8,4 @@ Over the past year, approximately 10,000 American teens have died due to a presc
 
 _Related Awards: International Science and Engineering Fair Finalist, Georgia Junior Science and Humanities Symposium Finalist_
 
-[![Hero Presentation](/images/08BEB9A6-E63C-41EA-A453-DF2F06107FA3.jpeg)](https://youtu.be/vu0OnxpfLtI "Hero: Automated Detection System for Prescription Drug Overdose")
+[![Hero Presentation](/images/66B7AD4F-9C48-44CB-8414-AB8EAB3EB705.jpeg)](https://youtu.be/vu0OnxpfLtI "Hero: Automated Detection System for Prescription Drug Overdose")
