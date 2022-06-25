@@ -10,4 +10,4 @@ _Related Awards: International Science and Engineering Fair 1st Place Special Aw
 
 [Code on GitHub](https://github.com/divnori/iSense)
 
-[![iSense: TED Talk](08BEB9A6-E63C-41EA-A453-DF2F06107FA3.jpeg)](https://www.youtube.com/watch?v=gEyZaz9Aq3k "Beyond a Moment of Silence: How STEM Can Prevent Gun Violence")
+[![iSense: TED Talk](images/08BEB9A6-E63C-41EA-A453-DF2F06107FA3.jpeg)](https://www.youtube.com/watch?v=gEyZaz9Aq3k "Beyond a Moment of Silence: How STEM Can Prevent Gun Violence")
