@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Click on each project title link to view a demo video, more detailed project information, and code.
+
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
