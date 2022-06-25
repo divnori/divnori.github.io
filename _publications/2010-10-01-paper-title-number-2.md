@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Hero: Automated Detection System for Prescription Stimulant Overdose via AI-Based Emotion Inference, Metabolite Detection, and Biometric Measurement"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2020-12-01-overdose-detection
+excerpt: 'Over the past year, approximately 10,000 Americans have died by psychostimulant overdose, and over 50% of these deaths were caused by prescription stimulant misuse. A comprehensive approach to detect a drug overdose in the environment where it occurs is imperative to reduce the number of prescription stimulant overdose-related deaths. Teenagers are at the highest risk for prescription stimulant overdose, so this study proposes a multi-factor overdose detection system named Hero which is designed to noninvasively operate within the context of a teen’s life. Hero monitors five factors that indicate stimulant abuse: extreme mood swings, presence of amphetamine metabolite in sweat excreted from the fingertip, heart rate, blood pressure, and respiration rate.'
+date: 2020-12-01
+venue: 'Open Journal of Applied Sciences'
+paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://www.scirp.org/pdf/ojapps_2020122114491440.pdf)'
+citation: 'Nori, Divya. (2020). &quot;Hero: Automated Detection System for Prescription Stimulant Overdose via AI-Based Emotion Inference, Metabolite Detection, and Biometric Measurement.&quot; <i>Open Journal of Applied Sciences</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Over the past year, approximately 10,000 Americans have died by psychostimulant overdose, and over 50% of these deaths were caused by prescription stimulant misuse. A comprehensive approach to detect a drug overdose in the environment where it occurs is imperative to reduce the number of prescription stimulant overdose-related deaths. Teenagers are at the highest risk for prescription stimulant overdose, so this study proposes a multi-factor overdose detection system named Hero which is designed to noninvasively operate within the context of a teen’s life. Hero monitors five factors that indicate stimulant abuse: extreme mood swings, presence of amphetamine metabolite in sweat excreted from the fingertip, heart rate, blood pressure, and respiration rate. An algorithm to detect extreme mood swings in a teen’s outgoing SMS messages was developed by collecting over 3.6 million tweets, creating groups of tweets for euphoria and melancholy using guidelines adapted from DSM-5 criteria, and training six Artificial Intelligence models. These models were used to create a dual-model-based extreme mood swing detection algorithm that was accurate 96% of the time. A biochemical strip, which consisted of a diagnostic measure that changes color when in contact with amphetamine metabolite and a control measure that changes color when the appropriate volume of sweat is excreted, was created. A gold nanoparticle-based diagnostic measure and pH-based control measure were evaluated individually and on the overall strip. The diagnostic measure had an accuracy of 90.62% while the control measure had 84.38% accuracy. Lastly, a vital sign measurement algorithm was built by applying photoplethysmography image processing techniques. A regression model with height, age, and gender features was created to convert heart rate to blood pressure, and the final algorithm had an accuracy of 97.86%. All five of these factors work together to create an accurate and easily integrable system to detect overdoses in real-time and prevent prescription stimulant abuse-related deaths.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://academicpages.github.io/files/paper2.pdf](https://www.scirp.org/pdf/ojapps_2020122114491440.pdf)
