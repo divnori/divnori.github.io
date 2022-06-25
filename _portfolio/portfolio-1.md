@@ -1,3 +1,5 @@
+Click each title link to see a project demo video, code hosted on GitHub, and other information.
+
 ---
 title: "iSense - AI-Based Model and App to Predict Depressive and Destructive Sentiment"
 excerpt: "Mobile application powered by an Artificial Intelligence model to securely identify linguistic biomarkers of mood disorders in a teen’s outgoing SMS messages<br/><img src='/images/isense.png'>"
