@@ -1,6 +1,6 @@
 ---
 title: "Computer Vision Based Gesture Recognition Interface for Automobile Control System"
-excerpt: "Interconnected embedded system to accurately recognize a set of hand gestures for media, navigation, and temperature control in automobile
+excerpt: "Interconnected embedded system to accurately recognize a set of hand gestures for media, navigation, and temperature control in automobile"
 collection: portfolio
 ---
 This project was completed in a team of 5 for an embedded systems class. I am not allowed to put the source code on GitHub.
