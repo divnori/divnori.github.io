@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Massachusetts Institute of Technology (MIT) - GPA: 5.0/5.0 - **Expected Graduation: 2024**
+* Massachusetts Institute of Technology (MIT), GPA: 5.0/5.0, **Expected Graduation: 2024**
   * Pursuing a B.S. in Computer Science, minor in Stats/Data Science, and minor in Biology
   * Relevant Courses: Intro to Algorithms, Intro to Deep Learning, Organic Chemistry, Molecular Biology, Linear Algebra, Differential Equations
   * Selected into a cohort of 30 NEET Living Machines Scholars, a synthetic biology program for upperclassmen
   * Activities: Published Author & Research Content Reviewer at MIT Undergraduate Research Journal, Undergrad Associate at MIT Biotech Group, Member of Women in AI
 
-* Milton High School | Valedictorian, U.S. Presidential Scholar
+* Milton High School, Valedictorian, U.S. Presidential Scholar
   * Ranked 1st out of 597 students while taking a rigorous course load (20+ college-level classes over four years)
   * Dual enrolled at the Georgia Institute of Technology for advanced math courses (Georgia Tech GPA: 4.0/4.0)
 
