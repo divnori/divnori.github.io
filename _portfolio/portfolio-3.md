@@ -1,0 +1,11 @@
+---
+title: "Hero: Automated Detection System for Prescription Drug Overdose"
+excerpt: "Multi-factor automated overdose detection system designed to operate in a teen’s living and working space. Involves sweat composition analysis, AI-based mood swing detection, and measurement of vital signs."
+collection: portfolio
+---
+
+Over the past year, approximately 10,000 American teens have died due to a prescription stimulant overdose. A comprehensive, accurate, and easily integrable approach to detect a drug overdose in the environment where it occurs is imperative. This study proposes a multi-factor automated overdose detection system designed to operate in a teen’s living and working space. The eight factors include sweat composition analysis, mood swing detection, measurement of vital signs (heart rate, blood pressure, respiration rate, electrodermal activity), detection of spasms, and consciousness verification. The two-factor reagent strip, consisting of a gold nanoparticle-based diagnostic measure and pH-based control measure, displayed a significant difference in color between simulated case and control sweat. An Arduino-based sensor and hardware apparatus were built and evaluated to integrate the strip onto a laptop mouse. A generalized linear model, gradient boosting machine, and multilayer perceptron trained on over 1.6 million data points were successfully able to detect a mood swing from a baseline emotion. The final model (with an AUC of over 85%) was implemented into the Hero mobile app to monitor a teen’s outgoing SMS messages for a mood swing. A mathematical image processing algorithm to measure vital signs was created, and repeated evaluation resulted in a percent error of <5%. These results, along with external sensors/hardware devices and mobile app features, were incorporated into Hero. In contrast to previous solutions, teens can use the Hero system and mobile app for constant background monitoring of physical, emotional, and biochemical signs of overdose in their daily life.
+
+_Related Awards: International Science and Engineering Fair Finalist, Georgia Junior Science and Humanities Symposium Finalist_
+
+[![Hero Presentation](/images/08BEB9A6-E63C-41EA-A453-DF2F06107FA3.jpeg)](https://youtu.be/vu0OnxpfLtI "Hero: Automated Detection System for Prescription Drug Overdose")
