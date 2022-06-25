@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-I am a student at MIT studying Computer Science and Bioinformatics. I am also an undergraduate researcher in the [Coley Group @ MIT Schwarzman College of Computing](https://coley.mit.edu/) and a summer research fellow at the [Eric and Wendy Schmidt Center @ Broad Institute](https://www.broadinstitute.org/ewsc). Previously, I worked as a Data Science R&D Intern in the Bioproducts Team at Eli Lilly and won grand awards at the Regeneron International Science Fair with my independent research projects.
+Hello! I am a student at MIT studying Computer Science and Bioinformatics. I am also an undergraduate researcher in the [Coley Group @ MIT Schwarzman College of Computing](https://coley.mit.edu/) and a summer research fellow at the [Eric and Wendy Schmidt Center @ Broad Institute](https://www.broadinstitute.org/ewsc). Previously, I worked as a Data Science R&D Intern in the Bioproducts Team at Eli Lilly and won grand awards at the Regeneron International Science Fair with my independent research projects.
 
-Feel free to reach out at divnor80 [at] mit [dot] edu.
+Feel free to reach out at divnor80 [at] mit [dot] edu!
 
 Currently
 ======
