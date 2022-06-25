@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Real-Time Intervention Framework for Nicotine Poisoning via Identification of Alternate Compound and a Smart E-Cigarette Device"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-12-01-smart-ecig-device
+excerpt: 'There has been a 200-fold increase in nicotine poisoning-related hospitalizations over the past decade which can be attributed to the rising popularity of electronic cigarette use or “vaping.” E-cigarettes are battery-powered devices designed to vaporize a liquid that consists of lung-damaging additives, flavorings, and nicotine. Due to the potency and palatability of this vapor, users can easily ingest a dangerous level of nicotine and experience symptoms such as difficulty breathing, dizziness, and seizures. This paper proposes a smart e-cigarette device capable of tracking nicotine release with respect to time, stopping traditional vape liquid release when a threshold is reached, and switching to a safer compound. To find this alternate compound, vanillin and menthol were evaluated for their potential to cause lung damage and extent of thermal degradation. Through creation of a synthetic lung tissue-mimicking material and analysis of permeation, this study concludes that vanillin causes a significantly lower amount of lung damage in comparison to vape liquid. Additionally, it displayed low thermal degradation as evaluated through GC-MS analysis, establishing that vanillin is a viable alternate compound. Vanillin was therefore integrated into VapeSafe, a smart tandem e-cigarette device that detects dangerous nicotine use and intervenes in real-time by switching compound release.'
+date: 2021-12-01
+venue: 'MIT Undergraduate Research Journal'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://murj-assets.s3.amazonaws.com/assets/issues/Vol_42_Published.pdf)'
+citation: 'Nori, Divya. (2021). &quot;Real-Time Intervention Framework for Nicotine Poisoning via Identification of Alternate Compound and a Smart E-Cigarette Device.&quot; <i>MIT Undergraduate Research Journal</i>. p.39-43.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+There has been a 200-fold increase in nicotine poisoning-related hospitalizations over the past decade which can be attributed to the rising popularity of electronic cigarette use or “vaping.” E-cigarettes are battery-powered devices designed to vaporize a liquid that consists of lung-damaging additives, flavorings, and nicotine. Due to the potency and palatability of this vapor, users can easily ingest a dangerous level of nicotine and experience symptoms such as difficulty breathing, dizziness, and seizures. This paper proposes a smart e-cigarette device capable of tracking nicotine release with respect to time, stopping traditional vape liquid release when a threshold is reached, and switching to a safer compound. To find this alternate compound, vanillin and menthol were evaluated for their potential to cause lung damage and extent of thermal degradation. Through creation of a synthetic lung tissue-mimicking material and analysis of permeation, this study concludes that vanillin causes a significantly lower amount of lung damage in comparison to vape liquid. Additionally, it displayed low thermal degradation as evaluated through GC-MS analysis, establishing that vanillin is a viable alternate compound. Vanillin was therefore integrated into VapeSafe, a smart tandem e-cigarette device that detects dangerous nicotine use and intervenes in real-time by switching compound release.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://murj-assets.s3.amazonaws.com/assets/issues/Vol_42_Published.pdf))
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Nori, Divya. (2021). "Real-Time Intervention Framework for Nicotine Poisoning via Identification of Alternate Compound and a Smart E-Cigarette Device." <i>MIT Undergraduate Research Journal</i>. p.39-43.
