@@ -1,7 +1,12 @@
 ---
-title: "iSense - AI-Based Model and App to Predict Depressive and Destructive Sentiment"
-excerpt: "Mobile application powered by an Artificial Intelligence model to securely identify linguistic biomarkers of mood disorders in a teen’s outgoing SMS messages<br/><img src='/images/isense.png'>"
+title: "Computer Vision Based Gesture Recognition Interface for Automobile Control System"
+excerpt: "Interconnected embedded system to accurately recognize a set of hand gestures for media, navigation, and temperature control in automobile<br/><img src='/images/circuit.png'>"
 collection: portfolio
 ---
+This project was completed in a team of 5 for an embedded systems class. I am not allowed to put the source code on GitHub.
 
-[![Demo Video]([08BEB9A6-E63C-41EA-A453-DF2F06107FA3.jpeg)](https://www.youtube.com/watch?v=gEyZaz9Aq3k](https://www.youtube.com/watch?v=265pv4jGRmo&t=7s) "AI-Powered Gesture Interface For Automobiles")
+* Built real-time computer vision model using OpenCV (Python) to accurately recognize a set of hand gestures for media, navigation, and temperature control in automobile
+* Integrated model backend with ESP32 microcontroller, Arduino Camera, and DFPlayer MP3 frontend system (C++) for easy implementation on a car’s dashboard
+* Interfaced with HC-06 Bluetooth module to link embedded system with user’s phone and implemented long-term data storage capabilities via SQLite database
+
+[![Demo Video](gesture.jpg)](https://www.youtube.com/watch?v=265pv4jGRmo&t=7s "AI-Powered Gesture Interface For Automobiles")
