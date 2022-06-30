@@ -32,4 +32,4 @@ Skills
 
 * **Machine Learning and Deep Learning:** PyTorch, TF-Keras, Jax, LightGBM, Scikit-Learn, OpenCV, H2O, Numpy, Pandas
 * **Bioinformatics/Cheminformatics:** RDKit, PyMOL, DeepChem, Biopython
-* **General Software Development:** Java, C++, Git, HTML/CSS, Android Studio, Firebase
+* **General Software Development:** Python, Java, C++, Git, HTML/CSS, Android Studio, Firebase
