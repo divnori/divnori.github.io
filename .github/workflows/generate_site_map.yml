@@ -19,8 +19,9 @@ jobs:
       id: sitemap
       uses: cicirello/generate-sitemap@v1
       with:
-        path-to-root: pages
+        path-to-root: _pages
         base-url-path: https://divnori.github.io
+        include-pdf: true
 
     - name: Output stats
       run: |
