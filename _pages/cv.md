@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+Last updated: 05-01-2022
 
 Education
 ======
@@ -22,11 +23,6 @@ Education
 
 Experience
 ======
-* **Computational Metabolomics Researcher, Broad Institute of MIT and Harvard, Summer 2022**
---fill in after summer--
-
-* **Deep Learning Researcher, Broad Institute of MIT and Harvard, Summer 2022**
---fill in after summer--
 
 * **AI-Based Drug Design Researcher, Coley Group @ MIT College of Computing, January 2022 - present**
   * Built a graph neural network-based deep generative molecular model to design potent new therapeutic degraders for a specific protein of interest using reinforcement learning
@@ -34,7 +30,7 @@ Experience
   * Evaluated the generated molecules on diversity, chemical validity, and synthetic accessibility
   * Contributed 100+ lines of original code to AstraZeneca R&D’s Molecular AI graph-invent repository
 
-* **Data Science R&D Intern, Eli Lilly, December 2021 - February 2022**
+* **Machine Learning R&D Intern, Eli Lilly, December 2021 - February 2022**
   * Optimized a convolutional neural network model using Keras to perform erythema image analysis and quantify skin reactions after subcutaneous injection of therapeutics; compared results to state-of-the-art scarletred algorithm
   * Rotated through the Bioproducts R&D, Interconnected Device, and Digital Health teams to understand how therapeutics are formulated in the lab, paired with delivery devices, and integrated into patients’ lives
 
