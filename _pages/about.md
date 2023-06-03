@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I am a junior at MIT studying Computer Science and Biology, with an interest in developing deep learning methods to understand and treat disease. Specifically, I focus on **geometric deep learning** and its applications to drug discovery and structural biology.
+Hello! I am a junior at MIT studying Computer Science and Biology, with an interest in developing deep learning methods to understand and treat disease. Specifically, I focus on geometric deep learning and its applications to drug discovery and structural biology.
 
 As an undergraduate researcher with the [Uhler Group @ Broad Institute of MIT and Harvard](https://www.ericandwendyschmidtcenter.org), I am working on geometric deep learning methods for RNA-protein binding. I previously worked with the [Coley Group @ MIT Schwarzman College of Computing](https://coley.mit.edu/) on graph-based generative models for molecular design.
 
