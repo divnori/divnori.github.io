@@ -8,28 +8,33 @@ redirect_from:
 ---
 
 
-Hello! I am a student at MIT studying Computer Science, Mathematics, and Biology. I am also an undergraduate researcher at the [Uhler Group @ Broad Institute of MIT and Harvard](https://www.carolineuhler.com) and [Coley Group @ MIT Schwarzman College of Computing](https://coley.mit.edu/). Over the next few months, I'll be working on the protein engineering team at Microsoft Research (Winter 2023) and AI research team at Absci (Summer 2023). Previously, I worked as a Data Science R&D Intern in the Bioproducts Team at Eli Lilly and won grand awards at the Regeneron International Science Fair with my independent research projects.
+Hello! I am a junior at MIT studying Computer Science and Biology, with an interest in developing deep learning methods to understand and treat disease. Specifically, I focus on **geometric deep learning** and its applications to drug discovery and structural biology.
+
+As an undergraduate researcher with the [Uhler Group @ Broad Institute of MIT and Harvard](https://www.ericandwendyschmidtcenter.org), I am working on geometric deep learning methods for RNA-protein binding. I previously worked with the [Coley Group @ MIT Schwarzman College of Computing](https://coley.mit.edu/) on graph-based generative models for molecular design.
 
 Feel free to reach out at divnor80 [at] mit [dot] edu!
 
 Currently
 ======
 
-At the Coley Group and Broad Institute, I apply deep learning approaches for drug discovery with a focus on:
+I am currently working on:
 
-* Generative modeling for de novo drug design
-* Deep learning for receptor-ligand binding prediction
-* Kernel methods for cheminformatics applications
+* _De novo_ antibody design as an AI research intern at [Absci](https://www.absci.com)
+* RNA-binding protein identification with the [Uhler Group](https://www.ericandwendyschmidtcenter.org)
+* Equivariant NNs for cryo-EM pose prediction as an [extended class project] (https://docs.google.com/presentation/d/1_20b49FljdyGyIQ4VnLGGh2BZ_qSIFvwnbRLMUll_2U/edit?usp=share_link)
 
-As an undergraduate student, I am involved with the biotechnology, computer science, and statistics ecosystems at MIT. Specifically, I:
+Previously
+======
 
-* Serve as a research editor for the [MIT Undergraduate Research Journal](http://murj.mit.edu)
-* Am a [NEET Living Machines Scholar](https://neet.mit.edu/threads/lm) where I work on collaborative synthetic biology projects as part of a 30 student cohort
-* Design and deliver an interdiscplinary biotech education to MIT undergraduates as an associate of [MIT Biotech Group](https://biotech.mit.edu)
+My past experience includes:
+
+* Graph-based generative models PROTAC design, published a [paper] (https://arxiv.org/abs/2211.02660)
+* Protein engineering tools on the BioML team at Microsoft
+* High school research projects combining deep learning and medicine, won grand awards at [ISEF] (https://www.societyforscience.org/isef/)
 
 Skills
 ======
 
-* **Machine Learning and Deep Learning:** PyTorch, TF-Keras, Jax, LightGBM, Scikit-Learn, OpenCV, H2O, Numpy, Pandas
-* **Bioinformatics/Cheminformatics:** RDKit, PyMOL, DeepChem, Biopython
-* **General Software Development:** Python, Java, C++, Git, HTML/CSS, Android Studio, Firebase
+* **Machine Learning and Deep Learning:** PyTorch, Jax, LightGBM, Scikit-Learn, OpenCV, H2O, Numpy, Pandas
+* **Bioinformatics/Cheminformatics:** Biopython, RDKit, PyMOL, DeepChem
+* **General Software Development:** Python, Java, Git, Linux
