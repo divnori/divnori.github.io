@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I am a junior at MIT studying Computer Science and Biology, with an interest in developing machine learning methods for applications in medicine. I am particularly interested in new geometric deep learning and generative modelling methods to enable breakthrough therapeutics for challenging diseases.
+Hello! I am a junior at MIT studying Computer Science and Biology, with an interest in developing machine learning methods for medicine. I am particularly interested in new geometric deep learning and generative modelling methods to enable breakthrough therapeutics for challenging diseases.
 
 As an undergraduate researcher with the [Uhler Group @ Broad Institute of MIT and Harvard](https://www.ericandwendyschmidtcenter.org), I am working on geometric deep learning methods for RNA design. I previously worked with the [Coley Group @ MIT Schwarzman College of Computing](https://coley.mit.edu/) on graph-based generative models for molecular design.
 
