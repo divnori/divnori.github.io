@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
+  
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a Senior and joint Master's student at MIT studying computer science. As a student researcher at the [Broad Institute](https://www.ericandwendyschmidtcenter.org), advised by [Prof. Wengong Jin](https://people.csail.mit.edu/wengong/) and [Prof. Caroline Uhler](https://www.carolineuhler.com), my research aims to develop machine learning methods for biological applications. With a  focus in drug discovery and biomolecular design, I am particularly interested in methods that bridge experimental, structure, and sequence data to make robust inferences.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to the Broad, I was an undergraduate researcher in the [Coley Group](https://coley.mit.edu). I have also worked in industry as an ML Research Intern at [D.E. Shaw Research](https://www.deshawresearch.com), AI Research Intern at [Absci](https://www.absci.com), and Software Engineering Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/biomedical-ml/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of research, I am a Teaching Assistant for the [Break Through Tech AI Program](https://computing.mit.edu/about/diversity-equity-inclusion/break-through-tech-ai/) at MIT. I'm also involved with the undergraduate biotech community through [Nucleate Dojo](https://dojo.nucleate.xyz). 
+
+Feel free to reach out at divnor80@mit.edu!
+
