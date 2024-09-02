@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://divnori.github.io/al-folio/sitemap.xml
+Sitemap: https://divnori.github.io/sitemap.xml
