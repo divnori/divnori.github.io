@@ -5,6 +5,4 @@ nav: true
 nav_order: 2
 ---
 
-<script>
-  window.location.href = "assets/pdf/Divya_Nori_Academic_CV-7.pdf";
-</script>
+[Click here to view my CV](assets/pdf/Divya_Nori_Academic_CV-7.pdf)
