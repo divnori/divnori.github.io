@@ -17,7 +17,7 @@ Hello! I'm a Senior and joint Master's student at MIT studying computer science.
 
 Prior to the Broad, I was an undergraduate researcher in the [Coley Group](https://coley.mit.edu). I have also worked in industry as an ML Research Intern at [D.E. Shaw Research](https://www.deshawresearch.com), AI Research Intern at [Absci](https://www.absci.com), and Software Engineering Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/biomedical-ml/).
 
-Outside of research, I am a Teaching Assistant for the [Break Through Tech AI Program](https://computing.mit.edu/about/diversity-equity-inclusion/break-through-tech-ai/) at MIT. I'm also involved with the undergraduate biotech community through [Nucleate Dojo](https://dojo.nucleate.xyz). 
+Outside of research, I am a co-organizer of the [ML Protein Engineering Seminar Series](https://www.ml4proteinengineering.com) -- feel free to reach out if you are interested in speaking! I'm also a Teaching Assistant for the [Break Through Tech AI Program](https://computing.mit.edu/about/diversity-equity-inclusion/break-through-tech-ai/) at MIT.
 
 Feel free to reach out at divnor80@mit.edu!
 
