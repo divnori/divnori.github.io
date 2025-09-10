@@ -47,3 +47,5 @@ I believe that in the AI era, one’s ability to deliberately cultivate and exer
 To me, this is a harder challenge than it seems at first glance. It took writing this blog post on a 6-hour cross-country flight with no WiFi, cut off from all LLMs and even the thesaurus, to force myself to massage the words myself. And while I don’t rely on LLMs for anything and everything, I do catch the reflex to bounce an idea off of GPT after thinking for just 30 seconds, short-circuiting any nascent originality.
 
 As I start my PhD, I hope to reverse that reflex. I want to increase my inference-time compute budget, spending more tokens of thought even if it feels slow or inefficient. It’s a privilege to build a voice and vision I recognize as my own.
+
+ <div align="center">***</div>
