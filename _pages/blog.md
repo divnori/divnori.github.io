@@ -12,7 +12,7 @@ nav_order: 3
   
 There’s a certain anonymity in my writing of late.
 
-In high school, I could easily identify a paragraph as mine: a rhythm to the pacing, a particular pairing of words, a certain shape to the arc – perhaps only I could see it, but I could see it clearly. Lately, my writing has been laced with the brutality of efficiency and the laziness of an LLM era. I can’t recognize my own voice.
+In high school, I could easily identify a paragraph as mine: a rhythm to the pacing or a particular pairing of words – perhaps only I could see it, but I could see it clearly. Lately, my writing has been laced with the brutality of efficiency and the laziness of an LLM era. I can’t recognize my own voice.
 
 I find that difficult to accept, as the way one writes has always been unmistakably personal to me. Growing up, I could often tell which of my friends had written which essay without ever glancing at the name on the page. One friend filled every paragraph with bursts of imagery while another peppered her prose with short, choppy, three-word sentences. A third promiscuously scattered semicolons. Regardless of how much each person even cared about writing, we would all inevitably press our fingerprints onto the page.
 
