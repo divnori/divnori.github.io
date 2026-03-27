@@ -13,14 +13,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Computer Science at Stanford, currently rotating with [Prof. Brian Hie](https://evodesign.org/) at the [Arc Institute](https://arcinstitute.org/). My research explores what a *world model for biology* might look like - in particular, how we can improve AI models to better represent and design biological systems across scales, from molecules to genomes. Some of the questions I am currently interested in are:
+I am a PhD student in Computer Science at Stanford, advised by Prof. Brian Hie at the [Laboratory of Evolutionary Design](https://evodesign.org/) and Prof. Christopher Ré at [Hazy Research](https://hazyresearch.stanford.edu/). I work on **AI for biology**, and some of the questions I am currently interested in are:
 
   - Along which axes should we scale models to better understand biology?
-  - How can models efficiently process vast biological context to make accurate predictions in new settings?
-  - When are foundation models useful versus task-specific models in the biological sciences?
-  - How can we represent *molecular function* precisely enough to achieve truly programmable design?
+  - Can we unlock emergent properties like in-context learning and reasoning in biological sequence models?
+  - How should biological sequence models and natural language models interact to make discoveries?
 
-I aim to deploy such models to unlock unprecedented advances in health and disease. At the same time, improving biological understanding in AI models raises critical biosecurity concerns. This motivates my work as a founding member of technical staff at [Valthos](https://valthos.com/), where we build AI and software infrastructure to rapidly counter emerging biological threats.
+I aim to deploy such models to make advances in health and disease. At the same time, improving biological understanding in AI models raises critical biosecurity concerns. This motivates my work as a founding member of technical staff at [Valthos](https://valthos.com/), where we build AI and software infrastructure to rapidly counter emerging biological threats.
 
 Outside of research, I am a co-organizer of the [ML Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/).
 
