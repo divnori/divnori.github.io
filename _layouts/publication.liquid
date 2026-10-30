@@ -1,0 +1,27 @@
+---
+---
+<article class="publication-item">
+  {% if entry.preview %}
+    <img class="teaser-img" src="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}" alt="{{ entry.preview_alt | default: entry.title | escape }}" loading="lazy" width="130" height="130">
+  {% endif %}
+  <div class="publication-details">
+    <div class="publication-title">
+      {% assign paper_url = entry.html %}
+      {% if entry.pdf %}
+        {% if entry.pdf contains '://' %}{% assign paper_url = entry.pdf %}{% else %}{% assign paper_url = entry.pdf | prepend: '/assets/pdf/' | relative_url %}{% endif %}
+      {% endif %}
+      {% if paper_url %}<a href="{{ paper_url }}">{{ entry.title }}</a>{% else %}{{ entry.title }}{% endif %}
+    </div>
+    <div class="publication-authors">
+      {% for author in entry.author_array %}{% unless forloop.first %}, {% endunless %}{% if site.scholar.last_name contains author.last and site.scholar.first_name contains author.first %}<strong>{{ author.first }} {{ author.last }}</strong>{% else %}{{ author.first }} {{ author.last }}{% endif %}{% endfor %}
+    </div>
+    <div class="publication-venue"><em>{{ entry.journal }}{% if entry.journal %}, {% endif %}{{ entry.year }}</em></div>
+    <div class="publication-links">
+      {% if entry.html %}[<a href="{{ entry.html }}">{% if entry.journal == 'bioRxiv' %}bioRxiv{% else %}Paper{% endif %}</a>]{% endif %}
+      {% if entry.pdf %}[<a href="{{ paper_url }}">PDF</a>]{% endif %}
+      {% if entry.arxiv %} [<a href="https://arxiv.org/abs/{{ entry.arxiv }}">arXiv</a>]{% endif %}
+      {% if entry.code %} [<a href="{{ entry.code }}">Code</a>]{% endif %}
+      {% if entry.website %} [<a href="{{ entry.website }}">Project Website</a>]{% endif %}
+    </div>
+  </div>
+</article>

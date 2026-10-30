@@ -2,7 +2,7 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-      {% if page.permalink != '/' %}
+      {% if site.first_name or site.title %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
             {% if site.first_name %}
@@ -45,16 +45,6 @@
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
-
-          <!-- About -->
-          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/' | relative_url }}">
-              {{- about_title }}
-              {% if page.permalink == '/' %}
-                <span class="sr-only">(current)</span>
-              {% endif %}
-            </a>
-          </li>
 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
@@ -108,6 +98,15 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% if page.layout == 'about' and page.selected_papers %}
+            <li class="nav-item"><a class="nav-link" href="#publications">Publications</a></li>
+          {% else %}
+            <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}#publications">Publications</a></li>
+          {% endif %}
+          {% if site.announcements.enabled %}
+            <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}#news">News</a></li>
+          {% endif %}
+
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
