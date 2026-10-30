@@ -46,6 +46,15 @@
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
 
+          {% if page.layout == 'about' and page.selected_papers %}
+            <li class="nav-item"><a class="nav-link" href="#publications">Publications</a></li>
+          {% else %}
+            <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}#publications">Publications</a></li>
+          {% endif %}
+          {% if site.announcements.enabled %}
+            <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}#news">News</a></li>
+          {% endif %}
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
@@ -98,15 +107,6 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-          {% if page.layout == 'about' and page.selected_papers %}
-            <li class="nav-item"><a class="nav-link" href="#publications">Publications</a></li>
-          {% else %}
-            <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}#publications">Publications</a></li>
-          {% endif %}
-          {% if site.announcements.enabled %}
-            <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}#news">News</a></li>
-          {% endif %}
-
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
